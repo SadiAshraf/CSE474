@@ -1,20 +1,19 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/read/hqbpfccmdmjj#4e454b
 
 Unlisted YouTube video:
 http://youtube....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
-
+Integrating Vision-Based Crack Detection with Stochastic Modeling: Understanding and Analyzing Structural Degradation Dynamics
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1gUfLv-7bmdpUDNOqtxR_gqvsWbd3DedrHPYLG9Wla3A/edit#slide=id.g11dd3286a66_0_7
 
 Group Number:
-0
+01
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+23141067 MD SADI ASHRAF
+23241037 Sazid Hasan Tonmoy
+21301169 Mashira Rofi 
+23341122 Shafin Abrar Mufdi 
