@@ -1,30 +1,15 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
-
-Two public links to the Concept Map (anyone on the internet can view without login):
-PDF: 
-https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
-Native/original format: 
-https://draw.io/...
-
-Name, Author, Edition, year, and publisher of the Book:
-Speech and Language Processing
-Jurafsky
-3rd edition
-2014
-Pearson
-
-Link to the book:
-https://amazon.com/...
-
-Link to the book chapter:
-https://books.google.com/books...
+https://youtu.be/Zrw9rHBzEJs
+Public Slides:
+https://docs.google.com/presentation/d/1crwrjsc6O1EK7pTw7tyAP_AZry8Hubw3W8yFkCqPYSQ/edit?usp=sharing
+Overleaf: 
+https://www.overleaf.com/read/vnctryxbrzyk#020304
 
 Group Number:
-0
+01
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+23141067 MD SADI ASHRAF
+23241037 Sazid Hasan Tonmoy
+21301169 Mashira Rofi 
+23341122 Shafin Abrar Mufdi 
