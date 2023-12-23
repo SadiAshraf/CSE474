@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/hqbpfccmdmjj#4e454b
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/gZD7xX2k-7I?feature=shared
 
 Paper title:
 Integrating Vision-Based Crack Detection with Stochastic Modeling: Understanding and Analyzing Structural Degradation Dynamics
